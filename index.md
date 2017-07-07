@@ -1,11 +1,6 @@
 ## Welcome to GitHub Pages
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+[Name of Link]({{ site.baseurl }}{% post_url 2017-07-06-my-hello %})
 
 You can use the [editor on GitHub](https://github.com/arjunarisang/arjunarisang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
