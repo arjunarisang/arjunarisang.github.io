@@ -34,6 +34,19 @@ Lha kalau ini javascript.
 let i = 1;
 ```
 
+Ini js thok
+
+```js
+let i = i;
+```
+
+Ini java
+
+```java
+public void main() {
+    System.out.println("hello world");
+}
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
